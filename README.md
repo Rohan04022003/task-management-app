@@ -16,7 +16,7 @@ This is a Task Management App built using **Next.js** and **React**. The applica
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/Rohan04022003/task-management-app
-   cd task-manager
+   cd task-management-app
    npm install
    npm run dev
    ```
